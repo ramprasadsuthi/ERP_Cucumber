@@ -14,6 +14,10 @@ public class Test2 {
        b = 150;
 	}
 	
+	//Added code from Deepthi
+	
+	//Added code from Hari
+	
 	@When("user computes a+b")
 	public void user_computes_a_b() {
 	   result = a+b;
